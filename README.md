@@ -2,7 +2,6 @@
 
 **Voice & Speech Therapy & Articulation Coach for Voice Professionals (MC, Podcaster, Teacher)** — Production-grade, evidence-backed analysis harness
 
-[![CI](https://github.com/your-org/voice-speech-therapy-professionals/actions/workflows/ci.yml/badge.svg)](https://github.com/your-org/voice-speech-therapy-professionals/actions/workflows/ci.yml)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-3.0.0-blue)](CHANGELOG.md)
